@@ -1,0 +1,251 @@
+{
+    "products": [
+        {
+            "productId": "4868356",
+            "title": "AND/OR Sofia Check Print Dress, Black/White",
+            "colorSwatches": [
+                {
+                    "skuid": "238329619",
+                    "color": "Black",
+                    "rgbColor": "#000000"
+                }
+            ],
+            "now": "£26",
+            "was": "£89"
+        },
+        {
+            "productId": "4875083",
+            "title": "Ghost Laura Shooting Star Crepe Midi Dress, Mint",
+            "colorSwatches": [
+                {
+                    "skuid": "238404174",
+                    "color": "Green",
+                    "rgbColor": "#008000"
+                }
+            ],
+            "now": "£36",
+            "was": "£120"
+        },
+        {
+            "productId": "4870146",
+            "title": "Hobbs Carly Dress, Peony Pink",
+            "colorSwatches": [
+                {
+                    "skuid": "238481586",
+                    "color": "Pink",
+                    "rgbColor": "#000080"
+                }
+            ],
+            "now": "£52",
+            "was": "£169"
+        },
+        {
+            "productId": "4959295",
+            "title": "Hobbs April Wrap Dress, Multi",
+            "colorSwatches": [
+                {
+                    "skuid": "238664203",
+                    "color": "Multi",
+                    "rgbColor": null
+                }
+            ],
+            "now": "£39",
+            "was": "£99"
+        },
+        {
+            "productId": "4823284",
+            "title": "Hobbs Astraea Floral Dress, Navy/Ivory",
+            "colorSwatches": [
+                {
+                    "skuid": "238448191",
+                    "color": "Blue",
+                    "rgbColor": "#0000FF"
+                }
+            ],
+            "now": "£79",
+            "was": "£169"
+        },
+        {
+            "productId": "4957430",
+            "title": "Whistles Alba Shift Dress, Green",
+            "colorSwatches": [
+                {
+                    "skuid": "238653932",
+                    "color": "Green",
+                    "rgbColor": "#008000"
+                }
+            ],
+            "now": "£50",
+            "was": "£99"
+        },
+        {
+            "productId": "4873363",
+            "title": "Ghost Astrid Floral Dress, Navy Clusters",
+            "colorSwatches": [
+                {
+                    "skuid": "238346446",
+                    "color": "Blue",
+                    "rgbColor": "#0000FF"
+                }
+            ],
+            "now": "£75",
+            "was": "£149"
+        },
+        {
+            "productId": "4810678",
+            "title": "Hobbs Suri Dress",
+            "colorSwatches": [
+                {
+                    "skuid": "238532883",
+                    "color": "Blue",
+                    "rgbColor": "#0000FF"
+                }
+            ],
+            "now": "£71",
+            "was": "£139"
+        },
+        {
+            "productId": "4955100",
+            "title": "Hobbs Lizzie Stripe Flared Dress, Black/Ivory",
+            "colorSwatches": [
+                {
+                    "skuid": "238627913",
+                    "color": "Black",
+                    "rgbColor": "#000000"
+                }
+            ],
+            "now": "£52",
+            "was": "£99"
+        },
+        {
+            "productId": "4827086",
+            "title": "hush Iris T-Shirt Dress, Grey Snake Print",
+            "colorSwatches": [
+                {
+                    "skuid": "238494052",
+                    "color": "Grey",
+                    "rgbColor": null
+                }
+            ],
+            "now": "£30",
+            "was": "£55"
+        },
+        {
+            "productId": "4973115",
+            "title": "Whistles Trailing Daisy Mini Dress, Yellow",
+            "colorSwatches": [
+                {
+                    "skuid": "238626560",
+                    "color": "Yellow",
+                    "rgbColor": "#FFFF00"
+                }
+            ],
+            "now": "£79",
+            "was": "£139"
+        },
+        {
+            "productId": "4973219",
+            "title": "White Stuff Shelley Denim Pinny Dress, Blue",
+            "colorSwatches": [
+                {
+                    "skuid": "238662125",
+                    "color": "Blue",
+                    "rgbColor": "#0000FF"
+                }
+            ],
+            "now": "£35",
+            "was": "£60"
+        },
+        {
+            "productId": "4907666",
+            "title": "Boden Cecily Mini Dress, Soft Stone",
+            "colorSwatches": [
+                {
+                    "skuid": "238520948",
+                    "color": "Natural",
+                    "rgbColor": "#000080"
+                }
+            ],
+            "now": "£51",
+            "was": "£85"
+        },
+        {
+            "productId": "4973251",
+            "title": "Whistles Georgina Zip A-Line Dress, Pale Blue",
+            "colorSwatches": [
+                {
+                    "skuid": "238888687",
+                    "color": "Blue",
+                    "rgbColor": "#0000FF"
+                }
+            ],
+            "now": "£85",
+            "was": "£129"
+        },
+        {
+            "productId": "4893866",
+            "title": "hush Fitzrovia Dress, Blue",
+            "colorSwatches": [
+                {
+                    "skuid": "238536760",
+                    "color": "Blue",
+                    "rgbColor": "#0000FF"
+                }
+            ],
+            "now": "£65",
+            "was": "£95"
+        },
+        {
+            "productId": "3935527",
+            "title": "Damsel in a Dress Lanie Military Dress, Orange",
+            "colorSwatches": [
+                {
+                    "skuid": "238246104",
+                    "color": "Orange",
+                    "rgbColor": "#000080"
+                }
+            ],
+            "now": "£118",
+            "was": "£169"
+        },
+        {
+            "productId": "4829697",
+            "title": "Chi Chi London Curve Anthea Dress, Navy",
+            "colorSwatches": [
+                {
+                    "skuid": "238344223",
+                    "color": "Blue",
+                    "rgbColor": "#0000FF"
+                }
+            ],
+            "now": "£46",
+            "was": "£65"
+        },
+        {
+            "productId": "5223730",
+            "title": "Whistles Midi Length Knit Dress",
+            "colorSwatches": [
+                {
+                    "skuid": "239076673",
+                    "color": "Blue",
+                    "rgbColor": "#0000FF"
+                }
+            ],
+            "now": "£95",
+            "was": "£129"
+        },
+        {
+            "productId": "4894290",
+            "title": "Jolie Moi Geometric Print Cross Over Maxi Dress",
+            "colorSwatches": [
+                {
+                    "skuid": "238565979",
+                    "color": "Pink",
+                    "rgbColor": "#000080"
+                }
+            ],
+            "now": "£75",
+            "was": "£95"
+        }
+    ]
+}
