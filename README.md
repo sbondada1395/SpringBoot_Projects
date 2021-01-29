@@ -16,6 +16,7 @@ How to test the application?
 
   a. Need Postman to run the rest service
   b. GET request http://localhost:8080/products?labelType=s&dresses=d 
+  
       queryParam:
       labelType is optional not used
       dresses=d is not used in the logic(yet add the condition on queryParam "dresses" in the code)
